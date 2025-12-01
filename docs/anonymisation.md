@@ -164,12 +164,12 @@ python anonymize_json.py
   "Type": "OptionSetInfo",
   "Name": "smallapp_familleespece",
   "DatasetName": "default.cds",
-  "DisplayName": "Familles Espèce",
-  "RelatedEntityName": "Cuves",
+  "DisplayName": "Familles",
+  "RelatedEntityName": "Caves",
   "RelatedColumnInvariantName": "smallapp_familleespece",
   "OptionSetInfoNameMapping": {
-    "579940000": "Crocodile",
-    "579940001": "Lézard"
+    "579940000": "Chat",
+    "579940001": "Chien"
   }
 }
 ```
